@@ -1,0 +1,10 @@
+Frankensteun Jr,97
+Chewbacca Chewy,10
+wakaka,-1
+hello,-1
+How are you,50
+Fighting,-1
+Kit,60
+OP,60
+YUI,70
+Macaroni,80
